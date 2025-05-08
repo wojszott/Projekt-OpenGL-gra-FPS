@@ -1,0 +1,257 @@
+﻿  cube.cpp
+  lodepng.cpp
+  main_file.cpp
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\lodepng.cpp(762,10): warning C4334: "<<": wynik 32-bitowe przesunięcia niejawnie skonwertowano do 64 bitów (czy 64-bitowe przesunięcie było zamierzone?)
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\lodepng.cpp(1422,25): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\lodepng.cpp(1426,27): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\lodepng.cpp(1498,32): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\lodepng.cpp(3441,25): warning C4334: "<<": wynik 32-bitowe przesunięcia niejawnie skonwertowano do 64 bitów (czy 64-bitowe przesunięcie było zamierzone?)
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\lodepng.cpp(3455,53): warning C4267: "argument": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\lodepng.cpp(4262,26): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\lodepng.cpp(4310,26): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\lodepng.cpp(4390,26): warning C4267: "=": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\lodepng.cpp(5329,27): warning C4267: "inicjowanie": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\FindRec.h(21,14): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\FindRec.h(22,14): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\globals.h(83,17): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\Abilites.h(157,16): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\Abilites.h(163,15): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\Abilites.h(203,15): warning C4305: "+=": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\Abilites.h(204,37): warning C4305: "=": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\Abilites.h(216,15): warning C4305: "+=": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\Abilites.h(217,22): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\Abilites.h(313,31): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(75,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(402,13): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(425,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(426,26): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(426,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(426,38): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(427,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(428,26): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(428,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(429,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(429,38): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(430,26): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(430,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(431,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(432,26): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(432,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(432,38): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(433,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(433,36): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(434,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(435,26): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(435,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(435,36): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(436,26): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(436,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\drawing.h(447,14): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  (kompilowanie pliku źródłowego „main_file.cpp”)
+  
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(48,34): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(52,30): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(93,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(94,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(101,52): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(104,52): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(148,11): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(149,11): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(153,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(154,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(155,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(156,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(272,25): warning C4305: "argument": obcięcie z "double" do "GLclampf"
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(272,20): warning C4305: "argument": obcięcie z "double" do "GLclampf"
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(272,15): warning C4305: "argument": obcięcie z "double" do "GLclampf"
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(301,9): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(302,9): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(316,3): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(316,3): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(316,15): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(316,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(317,3): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(317,3): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(317,12): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(317,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(317,16): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(317,16): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(317,26): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(317,26): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(376,3): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(376,3): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(376,15): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(376,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(377,3): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(377,3): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(377,12): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(377,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(377,16): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(377,16): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(377,26): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(377,26): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(433,3): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(433,3): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(433,15): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(433,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(434,3): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(434,3): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(434,12): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(434,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(434,16): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(434,16): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(434,26): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(434,26): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(461,3): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(461,3): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(461,15): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(461,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(462,3): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(462,3): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(462,12): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(462,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(462,16): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(462,16): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(462,26): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(462,26): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(515,12): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(518,11): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(518,11): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(518,15): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(518,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(518,25): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(518,25): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(519,11): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(519,11): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(519,21): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(519,21): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(519,25): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(519,25): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(557,12): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(633,12): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(635,6): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(635,6): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(635,12): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(635,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(636,6): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(636,6): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(636,12): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(636,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(636,16): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(636,16): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(636,22): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(636,22): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(674,12): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(727,12): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(729,3): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(729,3): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(729,15): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(729,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(730,3): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(730,3): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(730,12): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(730,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(730,16): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(730,16): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(730,26): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(730,26): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(768,12): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(820,12): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(823,3): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(823,3): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(823,15): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(823,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(824,3): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(824,3): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(824,12): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(824,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(824,16): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(824,16): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(824,26): warning C4838: konwersja z „int” do „float” wymaga konwersji zawężającej
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(824,26): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(862,12): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(1010,29): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(1015,44): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(1018,42): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\main_file.cpp(1021,50): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  model.cpp
+  shaderprogram.cpp
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\shaderprogram.cpp(60,15): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  sphere.cpp
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\sphere.cpp(123,36): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  teapot.cpp
+  torus.cpp
+C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\torus.cpp(123,36): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+glew32s.lib(glew.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glew32s.lib(glew.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+  gkiw_st_05_win.vcxproj -> C:\Users\wexit\OneDrive\Dokumenty\Gra Doom\Salvation ALFA(ten)\x64\Debug\gkiw_st_05_win.exe
