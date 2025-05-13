@@ -1,5 +1,5 @@
 # Projekt-OpenGL-gra-FPS
-Gra FPS napisana w OpenGL realizowana na podstawie szkieletu od prowadzącego
+Gra FPS napisana w OpenGL realizowana na podstawie szkieletu od prowadzącego  
 Projekt był robiony w parze, wszystkie zmienione pliki są w folderach mainCode i resources
 
 ### Moje zadania:
